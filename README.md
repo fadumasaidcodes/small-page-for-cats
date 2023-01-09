@@ -7,3 +7,5 @@
 ### Overall, this website provides an attractive and user-friendly way to display information about six cats. 
 
 ## screenshot of the website <img width="1440" alt="Screenshot 2023-01-09 at 04 25 50" src="https://user-images.githubusercontent.com/102771343/211240987-b8444a95-0a54-4c87-b038-eb6dae929d38.png">
+
+### the live website https://fadumasaidcodes.github.io/small-page-for-cats/
